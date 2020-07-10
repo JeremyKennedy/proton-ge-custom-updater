@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://raw.githubusercontent.com/patrickm32/proton-ge-custom-updater/master/proton-ge-custom-updater
 
 echo "╔══════════════════════════════════════════════════════════════════════╗"
 echo "║  This program will download and install the latest Proton-GE-Custom  ║"
